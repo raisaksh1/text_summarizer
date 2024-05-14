@@ -1,0 +1,31 @@
+root Creating directory:.github\workflows for the file .gitkeep 
+root Creating empty file: .github\workflows\.gitkeep
+root Creating directory:src\text_summarization for the file __init__.py 
+root Creating empty file: src\text_summarization\__init__.py
+root Creating directory:src\text_summarization\components for the file __init__.py 
+root Creating empty file: src\text_summarization\components\__init__.py
+root Creating directory:src\text_summarization\utils for the file __init__.py 
+root Creating empty file: src\text_summarization\utils\__init__.py
+root Creating directory:src\text_summarization\utils for the file common.py 
+root Creating empty file: src\text_summarization\utils\common.py
+root Creating directory:src\text_summarization\logging for the file __init__.py 
+root Creating empty file: src\text_summarization\logging\__init__.py
+root Creating directory:src\text_summarization\config for the file configuration.py 
+root Creating empty file: src\text_summarization\config\configuration.py
+root Creating directory:src\text_summarization\pipeline for the file __init__.py 
+root Creating empty file: src\text_summarization\pipeline\__init__.py
+root Creating directory:src\text_summarization\entity for the file __init__.py 
+root Creating empty file: src\text_summarization\entity\__init__.py
+root Creating directory:src\text_summarization\constants for the file __init__.py 
+root Creating empty file: src\text_summarization\constants\__init__.py
+root Creating directory:config for the file config.yaml 
+root Creating empty file: config\config.yaml
+root Creating empty file: params.yaml
+root Creating empty file: app.py
+root Creating empty file: main.py
+root Creating empty file: Dockerfile
+root Creating empty file: requirements.txt
+root Creating empty file: setup.py
+root Creating directory:research for the file trials.ipynb 
+root Creating empty file: research\trials.ipynb
+root Creating empty file: test.py
